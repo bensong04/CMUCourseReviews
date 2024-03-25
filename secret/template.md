@@ -1,9 +1,12 @@
-# 15-122: Principles of Imperative Programming
+# 02-251: Great Ideas in Computational Biology
 
-__Taken:__ F23
-__Instructor:__ Cervesato
-__Enjoyment:__ 8/10
-__Difficulty:__ 4/10
-__Time Commitment:__ 7/10
+## Basics
+| --- | --- |
+| __Taken__ | S23 |
+| __Instructor__ | Compeau | 
+| __Enjoyment__ | 6/10 |
+| __Difficulty__ | 6/10 |
+| __Time Commitment__ | 8/10 |
 
-__Overview:__ Fun course.
+## Overview
+Fun, but wouldn't take this course again.
